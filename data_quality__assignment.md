@@ -126,7 +126,7 @@ tenant_id_1,2024-06-01,2,2,0.67
 
 ## Expected Deliverables:
 
-1. SQL Query or Script:
+1. SQL Query (prefered) or Script (python or equivalent):
     - You should provide a SQL query or script that identifies users where the classification in the output file does not match the business rules.
     - Include screenshots showing the discrepancies identified.
 2. Discrepancy Report:
